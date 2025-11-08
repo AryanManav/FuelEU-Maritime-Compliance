@@ -1,0 +1,1 @@
+Adapters (UI components) placeholder
